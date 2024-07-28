@@ -10,7 +10,7 @@ This tools are allowed cookies set security = low to easiest upload webshell wit
 Usage:usage: a.py [-h] -f FILE [-t THREADS]
 a.py: error: the following arguments are required: -f/--file
 
-1.git clone 
+1.git clone https://github.com/0xWhoami35/DVWA_AUTO-XPLOIT.git
 2.python3 exploit.py -f targets.txt -t 10
 3.cat webshell.txt
 ```
