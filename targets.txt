@@ -588,3 +588,5 @@ http://64.225.106.49/
 http://83.212.127.49/
 http://96.8.121.148/
 http://coraza2.cloud/
+
+http://mp9f95qlr5w6g9:y1elpx1zic9qvx@p.proxik.cloud:8080
